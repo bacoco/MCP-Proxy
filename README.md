@@ -2,7 +2,7 @@
 
 MCP Proxy Hub is a comprehensive solution for managing multiple Model Context Protocol (MCP) servers through a single unified endpoint. It allows AI assistants like Cursor, Claude Desktop, and other MCP-compatible tools to access a wide range of capabilities through a centralized proxy.
 
-![MCP Proxy Hub](https://github.com/yourusername/mcp-proxy-hub/asseures
+![MCP Proxy Hub](https://github.com/bacoco/mcp-proxy-hub/asseures
 
 - **Single Endpoint**: Connect AI tools to dozens of MCP servers through one proxy
 - **Web Dashboard**: Intuitive UI for managing MCP servers
@@ -27,7 +27,7 @@ Managing multiple MCP servers with AI assistants typically requires configuring 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-proxy-hub.git
+git clone https://github.com/bacoco/mcp-proxy-hub.git
 cd mcp-proxy-hub
 
 # Start the container
@@ -69,7 +69,7 @@ MCP Proxy Hub consists of several components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-proxy-hub.git
+git clone https://github.com/bacoco/mcp-proxy-hub.git
 cd mcp-proxy-hub
 
 # Install dependencies
@@ -156,4 +156,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Note**: MCP Proxy Hub is currently in active development. Please report any issues you encounter.
 
 ---
-Réponse de Perplexity: pplx.ai/share
